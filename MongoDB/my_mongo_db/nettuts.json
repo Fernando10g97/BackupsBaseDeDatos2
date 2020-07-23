@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "5f017702f3f1f00f29e46172"
+  },
+  "first": "matthew",
+  "last": "setter",
+  "dob": "21/04/1978",
+  "gender": "m",
+  "hair_colour": "brown",
+  "occupation": "developer",
+  "nationality": "australian"
+},{
+  "_id": {
+    "$oid": "5f017704f3f1f00f29e46173"
+  },
+  "first": "james",
+  "last": "caan",
+  "dob": "26/03/1940",
+  "gender": "m",
+  "hair_colour": "brown",
+  "occupation": "actor",
+  "nationality": "american"
+},{
+  "_id": {
+    "$oid": "5f017707f3f1f00f29e46174"
+  },
+  "first": "arnold",
+  "last": "schwarzenegger",
+  "dob": "03/06/1925",
+  "gender": "m",
+  "hair_colour": "brown",
+  "occupation": "actor",
+  "nationality": "american"
+},{
+  "_id": {
+    "$oid": "5f017708f3f1f00f29e46175"
+  },
+  "first": "tony",
+  "last": "curtis",
+  "dob": "21/04/1978",
+  "gender": "m",
+  "hair_colour": "brown",
+  "occupation": "developer",
+  "nationality": "american"
+},{
+  "_id": {
+    "$oid": "5f01770bf3f1f00f29e46176"
+  },
+  "first": "jamie lee",
+  "last": "curtis",
+  "dob": "22/11/1958",
+  "gender": "f",
+  "hair_colour": "brown",
+  "occupation": "actor",
+  "nationality": "american"
+},{
+  "_id": {
+    "$oid": "5f01770cf3f1f00f29e46177"
+  },
+  "first": "michael",
+  "last": "caine",
+  "dob": "14/03/1933",
+  "gender": "m",
+  "hair_colour": "brown",
+  "occupation": "actor",
+  "nationality": "english"
+},{
+  "_id": {
+    "$oid": "5f01770ff3f1f00f29e46178"
+  },
+  "first": "judi",
+  "last": "dench",
+  "dob": "09/12/1934",
+  "gender": "f",
+  "hair_colour": "white",
+  "occupation": "actress",
+  "nationality": "english"
+}]
